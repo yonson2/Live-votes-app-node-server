@@ -1,2 +1,2 @@
-# React-redux-live-votes-app
-A simple voting app that uses React, redux, webpack, babel, node and es6
+# Live-votes-app-node-server
+This is the back-end part of a React based live voting app.
